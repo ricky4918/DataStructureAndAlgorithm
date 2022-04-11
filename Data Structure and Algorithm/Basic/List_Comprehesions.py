@@ -13,7 +13,7 @@ odds = [x for x in range(10) if x%2 == 1]
 print('odds: ' + str(odds))
 
 
-# get muliples of 10
+# get muliples of set
 ten_x = [x*10 for x in range(10)]
 print('ten_x:' + str(ten_x))
 
